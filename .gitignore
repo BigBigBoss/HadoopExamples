@@ -1,3 +1,14 @@
+# Project files
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+.DS_Store
+*~
+target
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -24,7 +35,6 @@ $RECYCLE.BIN/
 # OSX
 # =========================
 
-.DS_Store
 .AppleDouble
 .LSOverride
 
